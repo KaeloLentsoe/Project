@@ -1,0 +1,62 @@
+.logo {
+    position: static;
+    left: 30px;
+    padding-left: 20px;
+    
+}
+.div1{
+  display: flex;
+}
+.nav-links{
+    padding-left: 1000px;
+    text-decoration: none; 
+    
+}
+
+.inline-block{
+    padding-left: 7%;
+    padding-right: 7%;
+    color: white;
+     
+}
+.text-white{
+    text-decoration: none;
+     color: white;
+}
+
+.list{
+    list-style-type: none;
+    text-decoration: none;
+    display: flex;
+    display: flex;
+
+   
+}
+
+.Hero {
+    padding-left: 600px;
+
+}
+.About{
+    padding-left: 650px;
+}
+
+.who{
+    padding-left: 600px;
+}
+.dev2{
+    padding-left: 500px;
+
+}
+
+.Name {
+    padding-left: 600px;
+}
+
+.Intro2 {
+    padding-left: 600px;
+}
+
+.dec {
+    background-color: black;
+}
